@@ -4,7 +4,7 @@
 The code has been tested with Windows OS only
 
 ## Starting the rest api
-1. Install Chocolatey so you can use make on Windows OS - https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey
+1. Install Chocolatey so you can use `make` on Windows OS - https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey
 
 2. You can start this service with the command:
 make build_and_run
