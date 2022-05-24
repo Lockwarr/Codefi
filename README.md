@@ -7,13 +7,16 @@ The code has been tested with Windows OS only
 1. Install Chocolatey so you can use `make` on Windows OS - https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey
 
 2. You can start this service with the command:
+
 make build_and_run
 
 ## Testing
 1. Run all tests:
+
 make test-with-component
 
 2. Run only unit tests(without integration tests):
+
 make test
 
 ## Using the rest api
